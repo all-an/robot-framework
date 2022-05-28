@@ -8,8 +8,8 @@ https://github.com/robotframework/robotframework
 ## Tecnologias:
 
 - Python 3
-- Robot Framework
-- Selenium
+- Robot Framework  5.0.1
+- Selenium 
 
 ## Instalação e execução:
 
